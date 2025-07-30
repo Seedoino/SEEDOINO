@@ -1,6 +1,6 @@
 ## 📘 Project Description
 
-**SEEDOINO** is a fully air-gapped hardware tool for securely managing your cryptocurrency **seed phrase** using a microSD card. It is designed to maximize privacy and eliminate digital exposure by operating completely offline— **no Wi-Fi**, **no Bluetooth**, no wireless interfaces at all.
+**SEEDOINO** is a fully air-gapped hardware tool for securely managing your cryptocurrency **seed phrase** using a microSD card. It is designed to maximize privacy and eliminate digital exposure by operating completely offline **no Wi-Fi**, **no Bluetooth**, no wireless interfaces at all.
 
 ## 🔐 Key Features
 
