@@ -1,22 +1,22 @@
 ## 📘 Project Description
 
-**SEEDOINO** is a fully air-gapped hardware tool for securely managing your cryptocurrency **seed phrase** using a microSD card. It is designed to maximize privacy and eliminate digital exposure by operating completely offline **no Wi-Fi**, **no Bluetooth**, no wireless interfaces at all.
+**SEEDOINO** is a fully air gapped hardware tool for securely managing your cryptocurrency **seed phrase** using a microSD card. It is designed to maximize privacy and eliminate digital exposure by operating completely offline **no Wi-Fi**, **no Bluetooth**, no wireless interfaces at all.
 
 ## 🔐 Key Features
 
 - **Seed Phrase Storage**  
-  Securely store your BIP39-compatible seed phrase on a microSD card in a fully offline environment.
+  Securely store your BIP39 compatible seed phrase on a microSD card in a fully offline environment.
 
 - **Seed Phrase Recovery**  
   Read the seed phrase directly from the SD card.
 
 - **Seed Phrase Cloning**  
-  Duplicate your seed phrase to multiple SD cards without manually re-entering it—ideal for creating several backups quickly.
+  Duplicate your seed phrase to multiple SD cards without manually reentering it ideal for creating several backups quickly.
 
 - **Seed Phrase Splitting**  
   Optionally split your seed phrase across two separate SD cards for enhanced redundancy and physical separation.
 
-- **100% Air-Gapped**  
+- **100% Air Gapped**  
   SEEDOINO contains **no wireless interfaces**: no Wi-Fi, no Bluetooth.
 
 ---
